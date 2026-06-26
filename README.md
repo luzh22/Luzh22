@@ -46,11 +46,6 @@
 ## <p align="center">🌟 **NEURAL LOGS & METRICS**</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luzh22&show_icons=true&theme=soft&hide_border=true&title_color=FFD1DC&text_color=333333&icon_color=FFD1DC&bg_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luzh22&layout=compact&theme=soft&hide_border=true&title_color=FFD1DC&text_color=333333&icon_color=FFD1DC&bg_color=ffffff" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luzh22&theme=soft&hide_border=true&fire=FFD1DC&ring=FFD1DC&title_color=FFD1DC&background=ffffff" width="97%" />
 </p>
 
