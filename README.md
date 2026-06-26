@@ -1,17 +1,9 @@
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a2e,ff8fab&height=200&section=header&text=Stefanny%20Herrera&fontSize=52&fontAlign=38&fontAlignY=40&fontColor=FFD1DC&desc=Software%20Engineer%20%F0%9F%8C%B8&descAlign=38&descAlignY=58&descColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Stefanny%20Herrera&fontSize=52&fontAlign=50&fontAlignY=40&fontColor=FFD1DC&desc=Software%20Engineer%20%F0%9F%8C%B8&descAlign=50&descAlignY=58&descColor=ffffff&animation=twinkling" />
 </p>
-</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFD1DC&size=28&center=true&vCenter=true&width=600&height=50&lines=Systems+Engineering+Student+✨;Backend+%26+Database+Dev+🎀;Learning+something+new+every+day+🌸" alt="Typing SVG" />
-</p>
-<p align="center">
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=SYSTEM%20OVERRIDE:%20LUZ&fontAlign=50&fontAlignY=35&color=FFD1DC&height=150&fontSize=40&animation=twinkling" alt="Banner" />
 </p>
 
 <p align="center">
