@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/content?type=waving&text=Backend%20+%20Database%20Dev&fontAlign=50&fontAlignY=35&color=F8BBD0&height=150&fontSize=40&animation=fadeIn" />
 </p>
 
-# <p align="center">✨ **SYSTEM OVERRIDE: LUZ** 🎀</p>
+# <p align="center">✨ SYSTEM OVERRIDE: LUZ 🎀</p>
 
 ---
 
