@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFB6C1&size=28&center=true&vCenter=true&width=600&height=50&lines=Systems+Engineering+Student+✨;Backend+%26+Database+Dev+🎀;Learning+something+new+every+day+🌸" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFD1DC&size=28&center=true&vCenter=true&width=600&height=50&lines=Systems+Engineering+Student+✨;Backend+%26+Database+Dev+🎀;Learning+something+new+every+day+🌸" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=SYSTEM%20OVERRIDE:%20LUZ&fontAlign=50&fontAlignY=35&color=F8BBD0&height=150&fontSize=40&animation=twinkling" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=SYSTEM%20OVERRIDE:%20LUZ&fontAlign=50&fontAlignY=35&color=FFD1DC&height=150&fontSize=40&animation=twinkling" alt="Banner" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Security-Level%209%20Clearance-pink?style=flat-square&logo=ghost" />
-  <img src="https://img.shields.io/badge/Database%20Specialist-100%25-FFC0CB?style=flat-square&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Core--Logic-Active-F8BBD0?style=flat-square&logo=cpu" />
+  <img src="https://img.shields.io/badge/Security-Level%209%20Clearance-FFC0CB?style=flat-square&logo=ghost" />
+  <img src="https://img.shields.io/badge/Database%20Specialist-100%25-FFD1DC?style=flat-square&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Core--Logic-Active-FFE4E1?style=flat-square&logo=cpu" />
 </p>
 
 ---
@@ -51,16 +51,12 @@
 ## <p align="center">🌟 **NEURAL LOGS & METRICS** 🌸</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luzh22&show_icons=true&theme=rose&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luzh22&layout=compact&theme=rose&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luzh22&show_icons=true&theme=soft&hide_border=true&title_color=FFD1DC&text_color=333333&icon_color=FFD1DC&bg_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luzh22&layout=compact&theme=soft&hide_border=true&title_color=FFD1DC&text_color=333333&icon_color=FFD1DC&bg_color=ffffff" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luzh22&theme=rose" width="97%" alt="Profile Details Radar" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luzh22&theme=rose&hide_border=true" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luzh22&theme=soft&hide_border=true&fire=FFD1DC&ring=FFD1DC&title_color=FFD1DC&background=ffffff" width="97%" />
 </p>
 
 ---
@@ -69,7 +65,7 @@
 
 <p align="center">
   <a href="mailto:luzh2298@gmail.com">
-    <img src="https://img.shields.io/badge/Email-luzh2298@gmail.com-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-luzh2298@gmail.com-FFD1DC?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/tu-usuario">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -77,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Luzh22&color=F8BBD0&style=flat-square&label=TARGETS+MONITORED+🎀" />
+  <img src="https://komarev.com/ghpvc/?username=Luzh22&color=FFD1DC&style=flat-square&label=TARGETS+MONITORED+🎀" />
 </p>
 
 ---
