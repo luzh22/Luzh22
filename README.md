@@ -56,6 +56,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luzh22&theme=rose" width="97%" alt="Profile Details Radar" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luzh22&theme=rose&hide_border=true" width="97%" />
 </p>
 
