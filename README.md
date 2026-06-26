@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFB6C1&size=28&center=true&vCenter=true&width=600&height=50&lines=Systems+Engineering+Student+✨;Backend+%26+Database+Dev+🎀;Learning+something+new+every+day+🌸" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&text=SYSTEM%20OVERRIDE:%20LUZ&fontAlign=50&fontAlignY=35&color=F8BBD0&height=150&fontSize=40&animation=twinkling" alt="Banner" />
@@ -13,6 +10,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFB6C1&size=28&center=true&vCenter=true&width=600&height=50&lines=Systems+Engineering+Student+✨;Backend+%26+Database+Dev+🎀;Learning+something+new+every+day+🌸" alt="Typing SVG" />
+</p>
+
 
 ## <p align="center">🎀 **ABOUT ME** // *The Heart of the Data* 🌸</p>
 
