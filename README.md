@@ -51,8 +51,8 @@
 ## <p align="center">🏆 **MY GITHUB TROPHIES** 🎀</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luzh22&theme=rose_pine&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Github Trophies" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Luzh22&theme=dracula&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Github Trophies" />
+</p
 ---
 
 ## <p align="center">🌟 **NEURAL LOGS & METRICS** 🌸</p>
