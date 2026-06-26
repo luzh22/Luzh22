@@ -14,7 +14,7 @@
 
 ---
 
-## <p align="center">💬 **DEV QUOTE** 🌸</p>
+## <p align="center"></p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code+is+like+makeup.+It+can+hide+flaws+and+enhance+beauty,+but+real+skill+shines+through+either+way.&author=Stefanny+Herrera" alt="Dev Quote" />
