@@ -1,5 +1,7 @@
-# ⚡ CORE_SYSTEM_OVERRIDE // [Luzh22]
 
+# ⚡ CORE_SYSTEM_OVERRIDE // [Luzh22]
+### ¡Mira cómo juego con mis contribuciones!
+![Snake animation](https://github.com/luzh22)
 <p align="center">
   <img src="https://capsule-render.vercel.app/content?type=cyberpunk&text=QUANTUM%20DEVELOPER&fontAlign=50&fontAlignY=40&color=00ffcc&height=180&fontSize=50&animation=twinkling" fill="#000"/>
 </p>
