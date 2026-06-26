@@ -14,32 +14,24 @@
 
 ---
 
-## <p align="center">🎀 **ABOUT ME** // *The Heart of the Data* 🌸</p>
-
-> *"Building sturdy foundations in the background so everything else looks pretty on the surface."*
-
-<p align="center">
-  Soy una desarrolladora enfocada en la lógica, el rendimiento y la integridad de los datos. Mi mundo es el **Backend** y diseñar arquitecturas de **Bases de Datos** sólidas, pero me gusta que todo lo que toco tenga un toque de estilo y prolijidad. ¡Optimizando queries con moñitos incluidos! 💖
-</p>
-
----
-
-## <p align="center">💫 **ACTIVITY PROTOCOL** 🐍</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Luzh22/Luzh22/output/github-contribution-grid-snake.svg" alt="GitHub Streak Snake" />
-</p>
-
----
 ## <p align="center">💬 **DEV QUOTE** 🌸</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code+is+like+makeup.+It+can+hide+flaws+and+enhance+beauty,+but+real+skill+shines+through+either+way.&author=Stefanny+Herrera" alt="Dev Quote" />
 </p>
+---
+
+## <p align="center"></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Luzh22/Luzh22/output/github-contribution-grid-snake.svg" alt="GitHub Streak Snake" />
+</p>
+
+
 
 ---
 
-## <p align="center">📈 **ACTIVITY GRAPH** 🎀</p>
+## <p align="center"> **ACTIVITY GRAPH** 🎀</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luzh22&bg_color=1a1a2e&color=FFD1DC&line=ff8fab&point=FFD1DC&area=true&hide_border=true&area_color=ff8fab" alt="Activity Graph" />
