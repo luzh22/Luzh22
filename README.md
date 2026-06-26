@@ -1,13 +1,6 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Luzh22/Luzh22/output/github-contribution-grid-snake.svg" alt="GitHub Streak Snake" />
-</p>
-# <p align="center"><img src="https://media.giphy.com/media/UatYnOf729z4I7y66N/giphy.gif" width="35" />✨ **HI THERE! I'M LUZ** 🎀</p>
-
----
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/content?type=waving&text=Backend%20+%20Database%20Dev&fontAlign=50&fontAlignY=35&color=F8BBD0&height=150&fontSize=40&animation=fadeIn" />
 </p>
 
