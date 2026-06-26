@@ -48,6 +48,16 @@
 
 ---
 
+## <p align="center">🏆 **MY GITHUB TROPHIES** 🎀</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Luzh22&theme=rose&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Github Trophies" />
+  </a>
+</p>
+
+---
+
 ## <p align="center">🌟 **NEURAL LOGS & METRICS** 🌸</p>
 
 <p align="center">
