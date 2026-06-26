@@ -31,6 +31,20 @@
 </p>
 
 ---
+## <p align="center">💬 **DEV QUOTE** 🌸</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code+is+like+makeup.+It+can+hide+flaws+and+enhance+beauty,+but+real+skill+shines+through+either+way.&author=Stefanny+Herrera" alt="Dev Quote" />
+</p>
+
+---
+
+## <p align="center">📈 **ACTIVITY GRAPH** 🎀</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luzh22&bg_color=1a1a2e&color=FFD1DC&line=ff8fab&point=FFD1DC&area=true&hide_border=true&area_color=ff8fab" alt="Activity Graph" />
+</p>
+---
 
 ## <p align="center">💞 **WEAPONS OF CHOICE** (TECH STACK) ⚙️</p>
 
@@ -46,13 +60,7 @@
   🎨 <b>Complementary Frontend:</b> HTML5 | CSS3 | React
 </p>
 
----
 
-## <p align="center">🏆 **MY GITHUB TROPHIES** 🎀</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luzh22&theme=dracula&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Github Trophies" />
-</p
 ---
 
 ## <p align="center">🌟 **NEURAL LOGS & METRICS** 🌸</p>
@@ -85,4 +93,4 @@
 
 ---
 
-<p align="center">*(Created with 💖, Python, and a touch of database logic)*</p>
+<p align="center">*( 💖)*</p>
