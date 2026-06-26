@@ -1,5 +1,7 @@
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Systems+Engineering+Student;Junior+Web+Developer;Ecommerce+%26+Shopify+Developer;UI%2FUX+%26+Data+Analytics;Learning+something+new+every+day" width="500" />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/content?type=waving&text=Backend%20+%20Database%20Dev&fontAlign=50&fontAlignY=35&color=F8BBD0&height=150&fontSize=40&animation=fadeIn" />
 </p>
