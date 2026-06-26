@@ -19,8 +19,8 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code+is+like+makeup.+It+can+hide+flaws+and+enhance+beauty,+but+real+skill+shines+through+either+way.&author=Stefanny+Herrera" alt="Dev Quote" />
 </p>
----
-## <p align="center">💞 **WEAPONS OF CHOICE** </p>
+
+ <p align="center">💞 **WEAPONS OF CHOICE** </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
