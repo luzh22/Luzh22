@@ -4,12 +4,12 @@
   <img src="https://capsule-render.vercel.app/content?type=waving&text=Backend%20+%20Database%20Dev&fontAlign=50&fontAlignY=35&color=F8BBD0&height=150&fontSize=40&animation=fadeIn" />
 </p>
 
-# <p align="center"><img src="https://media.giphy.com/media/UatYnOf729z4I7y66N/giphy.gif" width="35" /> ✨ **SYSTEM OVERRIDE: LUZ** 🎀</p>
+# <p align="center">✨ **SYSTEM OVERRIDE: LUZ** 🎀</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/content?type=waving&text=Backend%20+%20Database%20Dev&fontAlign=50&fontAlignY=35&color=F8BBD0&height=150&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Backend%20+%20Database%20Dev&fontAlign=50&fontAlignY=35&color=F8BBD0&height=150&fontSize=40&animation=fadeIn" alt="Banner" />
 </p>
 
 <p align="center">
