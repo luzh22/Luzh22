@@ -20,15 +20,20 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code+is+like+makeup.+It+can+hide+flaws+and+enhance+beauty,+but+real+skill+shines+through+either+way.&author=Stefanny+Herrera" alt="Dev Quote" />
 </p>
 ---
+## <p align="center">💞 **WEAPONS OF CHOICE** </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,postgres,sqlserver,git,github,gitlab,html,css,react,visualstudio,vscode,postman&theme=light&perline=8" />
+  </a>
+</p>
+
+---
 ## <p align="center"></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Luzh22/Luzh22/output/github-contribution-grid-snake.svg" alt="GitHub Streak Snake" />
 </p>
-
-
-
 ---
 
 ## <p align="center"> **ACTIVITY GRAPH** 🎀</p>
@@ -38,24 +43,7 @@
 </p>
 ---
 
-## <p align="center">💞 **WEAPONS OF CHOICE** (TECH STACK) ⚙️</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cs,postgres,sqlserver,git,github,gitlab,docker,linux,html,css,react,visualstudio,vscode,postman&theme=light&perline=8" />
-  </a>
-</p>
-
-<p align="center">
-  💻 <b>Core & Data:</b> Python | Java | C# | PostgreSQL | SQL Server <br>
-  🛠️ <b>DevOps & Tools:</b> Git | GitHub | GitLab | Docker | Linux | Postman <br>
-  🎨 <b>Complementary Frontend:</b> HTML5 | CSS3 | React
-</p>
-
-
----
-
-## <p align="center">🌟 **NEURAL LOGS & METRICS** 🌸</p>
+## <p align="center">🌟 **NEURAL LOGS & METRICS**</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luzh22&show_icons=true&theme=soft&hide_border=true&title_color=FFD1DC&text_color=333333&icon_color=FFD1DC&bg_color=ffffff" width="48%" />
