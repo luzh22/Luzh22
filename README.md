@@ -5,9 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD1DC,ff8fab&height=200&section=header&text=Stefanny%20Herrera&fontSize=52&fontAlign=38&fontAlignY=40&fontColor=ffffff&desc=Software%20Engineer%20%F0%9F%8C%B8&descAlign=38&descAlignY=58&descColor=FFD1DC&animation=twinkling" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD1DC,ff8fab&height=200&section=header&text=Stefanny%20Herrera&fontSize=52&fontAlign=38&fontAlignY=40&fontColor=ffffff&desc=Software%20Engineer%20%F0%9F%8C%B8&descAlign=38&descAlignY=58&descColor=FFD1DC&animation=twinkling" />
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&text=SYSTEM%20OVERRIDE:%20LUZ&fontAlign=50&fontAlignY=35&color=FFD1DC&height=150&fontSize=40&animation=twinkling" alt="Banner" />
