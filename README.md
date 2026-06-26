@@ -20,12 +20,18 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code+is+like+makeup.+It+can+hide+flaws+and+enhance+beauty,+but+real+skill+shines+through+either+way.&author=Stefanny+Herrera" alt="Dev Quote" />
 </p>
 
- <p align="center">💞 **WEAPONS OF CHOICE** </p>
+## <p align="center">💞 **WEAPONS OF CHOICE** (TECH STACK) ⚙️</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,postgres,sqlserver,git,github,gitlab,html,css,react,visualstudio,vscode,postman&theme=light&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,java,cs,postgres,sqlserver,git,github,gitlab,docker,linux,html,css,react,visualstudio,vscode,postman&theme=light&perline=9" />
   </a>
+</p>
+
+<p align="center">
+   <b>Core & Data:</b> Python | Java | C# | PostgreSQL | SQL Server <br>
+   <b>DevOps & Tools:</b> Git | GitHub | GitLab | Docker | Linux | Postman <br>
+   <b>Complementary Frontend:</b> HTML5 | CSS3 | React
 </p>
 
 ---
