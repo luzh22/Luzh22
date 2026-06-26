@@ -1,7 +1,8 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD1DC,ff8fab&height=200&section=header&text=Stefanny%20Herrera&fontSize=52&fontAlign=38&fontAlignY=40&fontColor=ffffff&desc=Software%20Engineer%20%F0%9F%8C%B8&descAlign=38&descAlignY=58&descColor=FFD1DC&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a2e,ff8fab&height=200&section=header&text=Stefanny%20Herrera&fontSize=52&fontAlign=38&fontAlignY=40&fontColor=FFD1DC&desc=Software%20Engineer%20%F0%9F%8C%B8&descAlign=38&descAlignY=58&descColor=ffffff&animation=twinkling" />
+</p>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFD1DC&size=28&center=true&vCenter=true&width=600&height=50&lines=Systems+Engineering+Student+✨;Backend+%26+Database+Dev+🎀;Learning+something+new+every+day+🌸" alt="Typing SVG" />
